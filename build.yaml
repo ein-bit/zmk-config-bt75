@@ -19,3 +19,4 @@
 ---
 include:
   - board: bt75_v1
+    shield: bt75
